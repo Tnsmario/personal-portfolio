@@ -156,6 +156,9 @@ html {
   color: white;
   font-weight: 500;
 }
+.btn:active {
+  transform: scale(0.98);
+}
 /*  HOVER SECTION */
 #navbar a:hover {
   background-color: #195196;
